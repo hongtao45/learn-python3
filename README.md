@@ -47,7 +47,7 @@ See [contributing](https://github.com/jerry-git/learn-python3/blob/master/CONTRI
 14. - [x] [Debugging](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/debugging.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/debugging.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/debugging_exercise.ipynb)
 15. - [x] [Goodies of the Standard Library - part 1](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/std_lib.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/std_lib.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/std_lib1_exercise.ipynb)
 16. - [ ] [Testing with pytest - part 2](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/testing2.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/testing2.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/testing2_exercise.ipynb)
-17. - [ ] [Virtual environment](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/venv.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/venv.ipynb)
+17. - [x] [Virtual environment](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/venv.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/venv.ipynb)
 18. - [ ] [Project structure](https://jerry-git.github.io/learn-python3/notebooks/beginner/html/project_structure.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/notebooks/project_structure.ipynb)
 19. - [ ] Recap exercise 2 [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/beginner/exercises/recap2_exercise.ipynb)
 
@@ -57,11 +57,11 @@ See [contributing](https://github.com/jerry-git/learn-python3/blob/master/CONTRI
 
 Python is a powerful language which contains many features not presented in most other programming languages. Idiomatic section will cover some of these Pythonic features in detail. These materials are especially useful for people with background in other programming languages.
 
-1. [Idiomatic loops](https://jerry-git.github.io/learn-python3/notebooks/intermediate/html/idiomatic_loops.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/notebooks/idiomatic_loops.ipynb)
-2. [Idiomatic dictionaries](https://jerry-git.github.io/learn-python3/notebooks/intermediate/html/idiomatic_dicts.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/notebooks/idiomatic_dicts.ipynb)
-3. [Idiomatic Python - miscellaneous part 1](https://jerry-git.github.io/learn-python3/notebooks/intermediate/html/idiomatic_misc1.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/notebooks/idiomatic_misc1.ipynb)
-4. [Idiomatic Python - miscellaneous part 2](https://jerry-git.github.io/learn-python3/notebooks/intermediate/html/idiomatic_misc2.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/notebooks/idiomatic_misc2.ipynb)
-5. Idiomatic Python exercise [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/exercises/idiomatic_python_exercise.ipynb)
+1. - [x] [Idiomatic loops](https://jerry-git.github.io/learn-python3/notebooks/intermediate/html/idiomatic_loops.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/notebooks/idiomatic_loops.ipynb)
+2. - [ ] [Idiomatic dictionaries](https://jerry-git.github.io/learn-python3/notebooks/intermediate/html/idiomatic_dicts.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/notebooks/idiomatic_dicts.ipynb)
+3. - [ ] [Idiomatic Python - miscellaneous part 1](https://jerry-git.github.io/learn-python3/notebooks/intermediate/html/idiomatic_misc1.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/notebooks/idiomatic_misc1.ipynb)
+4. - [ ] [Idiomatic Python - miscellaneous part 2](https://jerry-git.github.io/learn-python3/notebooks/intermediate/html/idiomatic_misc2.html) [[notebook]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/notebooks/idiomatic_misc2.ipynb)
+5. - [ ] Idiomatic Python exercise [[exercise]](http://nbviewer.jupyter.org/github/jerry-git/learn-python3/blob/master/notebooks/intermediate/exercises/idiomatic_python_exercise.ipynb)
 
 #### Step up your `pytest` game
 
